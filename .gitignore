@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+data/*
+extracted_feature/*
+sbash/*
+!20260522-mlp.sh
+*.pth
+>>>>>>> 649f9fd (first commit)
